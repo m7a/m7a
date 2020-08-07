@@ -1,9 +1,8 @@
-![Ma_Sys.ma Logo](m7a_att/logo_v2.svg)
+![Ma_Sys.ma Logo](https://raw.githubusercontent.com/m7a/m7a/master/m7a_att/logo_v2.svg)
 
 Welcome!
 
 Here, you can find Ma_Sys.ma's Github repositories.
-
 If you are interested in the non-code details, please feel free to
 [explore the website](https://masysma.lima-city.de).
 
@@ -18,7 +17,7 @@ the most important metadata:
 | b  | Intended to work on _both_: Windows and Linux                            |
 | l  | Mostly for _Linux_                                                       |
 | w  | Mostly for _Windows_                                                     |
-| -- | ------------------------------------------------------------------------ |
+
 | Y  | “State of Publication”                                                   |
 | -- | ------------------------------------------------------------------------ |
 | o  | _open_: public and possibly interesting                                  |
