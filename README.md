@@ -18,6 +18,8 @@ the most important metadata:
 | l  | Mostly for _Linux_                                         | r  | _restricted_: private repository                                |
 | w  | Mostly for _Windows_                                       |    |                                                                 |
 
+[Filter repositories by Y=o (approximate results)](https://github.com/m7a?tab=repositories&q=%22bo-%22+in%3Aname+OR+%22lo-%22+in%3Aname+OR+%22co-%22+in%3Aname+OR+%22wo-%22+in%3Aname)
+
 ## Documentation looks weird?
 
 In case documentation on Github looks distorted, this is due to some differences
