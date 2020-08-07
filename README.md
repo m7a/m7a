@@ -11,18 +11,12 @@ If you are interested in the non-code details, please feel free to
 Ma_Sys.ma repositories are named `XY-DESCRIPTION` where `X` and `Y` encode
 the most important metadata:
 
-| X  | “Operating System Indicator”                                             |
-| -- | ------------------------------------------------------------------------ |
-| c  | Part of the Ma_Sys.ma MDVL _CI_ (mostly for Linux)                       |
-| b  | Intended to work on _both_: Windows and Linux                            |
-| l  | Mostly for _Linux_                                                       |
-| w  | Mostly for _Windows_                                                     |
-
-| Y  | “State of Publication”                                                   |
-| -- | ------------------------------------------------------------------------ |
-| o  | _open_: public and possibly interesting                                  |
-| p  | _private public_: publicly accessible but possibly only privately useful |
-| r  | _restricted_: private repository.                                        |
+| X  | “Operating System Indicator”                                             | Y  | “State of Publication”                                                   |
+| -- | ------------------------------------------------------------------------ | -- | ------------------------------------------------------------------------ |
+| c  | Part of the Ma_Sys.ma MDVL _CI_ (mostly for Linux)                       | o  | _open_: public and possibly interesting                                  |
+| b  | Intended to work on _both_: Windows and Linux                            | p  | _private public_: publicly accessible but possibly only privately useful |
+| l  | Mostly for _Linux_                                                       | r  | _restricted_: private repository.                                        |
+| w  | Mostly for _Windows_                                                     |    |                                                                          |
 
 ## Documentation looks weird?
 
