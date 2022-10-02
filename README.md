@@ -4,7 +4,7 @@ Welcome!
 
 Here, you can find Ma_Sys.ma's Github repositories.
 If you are interested in the non-code details, please feel free to
-[explore the website](https://masysma.lima-city.de).
+[explore the website at masysma.net](https://masysma.net).
 
 ## Repository structure
 
@@ -24,5 +24,5 @@ the most important metadata:
 
 In case documentation on Github looks distorted, this is due to some differences
 in Markdown syntax between Github and
-[d5man2(32)](https://masysma.lima-city.de/32/d5man2.xhtml). Find the correctly
+[d5man2(32)](https://masysma.net/32/d5man2.xhtml). Find the correctly
 displayed version on the website.
